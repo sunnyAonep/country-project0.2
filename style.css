@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(126, 126, 221);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    }
+    .theform{
+        color: rgb(30, 70, 104);
+        font-family: cursive;
+        font-size: 25px;
+    }
+    .page2h{
+    font-size: 30px;
+    color: rgb(10, 245, 245);
+    }
+    .buttonpage2
+    {
+        text-align: right;
+    }
+    .button3{
+        text-align: left;
+    
+    }
+    .textline{
+        font-family: Algerian;
+        font-size: 18px;
+        padding-left: 30%;
+        width: 700px;
+        color: rgb(78, 9, 143);
+        font-weight: bolder;
+    }
+    .headp1{
+        color: rgb(60, 0, 116);
+        font-size: 30px;
+    }
+    footer{
+        color: rgb(62, 26, 95);
+        background-color: rgb(201, 135, 255);
+        margin-top: auto;
+    }
+    header
+    {
+        background-color: rgb(201, 135, 255);
+        height: 90px;
+        background-image: url(img/Flag_of_Thailand.svg.png);
+        background-repeat:no-repeat;
+       background-position: right;
+       text-align: left;
+       color: rgb(127, 252, 210);
+       padding-top: 3px;
+       padding-left: 20px; 
+       font-size: 18px; 
+       font-weight: bold;
+    }
+    
