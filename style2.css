@@ -1,0 +1,8 @@
+hr table, th, td {
+    background-color: rgb(112, 190, 190);
+    border-collapse: collapse;
+    border: 5px solid rgb(129, 38, 38);
+    padding: 10px;
+    width: 1000px;
+
+  }
